@@ -23,3 +23,5 @@ print ("CIRCULO: %.3f" % (circulo))
 print ("TRAPEZIO: %.3f" % (trapezio))
 print ("QUADRADO: %.3f" % (quadrado))
 print ("RETANGULO: %.3f" % (retangulo))
+
+#ÈOSGURI
